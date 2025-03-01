@@ -41,8 +41,7 @@ This will generate a `dist` folder that can be deployed to any static hosting se
 ## 📝 Usage
 1. Open the application in your browser.
 2. Add new tasks using the input field.
-3. Mark tasks as completed or delete them when done.
-4. Manage your tasks efficiently!
+3. Manage your tasks efficiently!
 
 ## 🛡 Security & Contributions
 - 🛠 Contributions are welcome! Feel free to submit pull requests.
